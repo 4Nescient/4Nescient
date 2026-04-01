@@ -19,7 +19,7 @@ I am comfortable working across both Solidity and Rust, which allows me to asses
 ## Portfolio
 
 - **Audit Portfolio:** [Portfolio link](https://audits.sherlock.xyz/watson/4Nescient)
-- **Public Findings / Reports:** [Add findings link](#)
+- **Public Findings / Reports:** [Public audits](https://github.com/4Nescient/public-audits)
 
 ---
 
@@ -27,4 +27,4 @@ I am comfortable working across both Solidity and Rust, which allows me to asses
 
 - **X / Twitter:** [@4nescient](https://x.com/4nescient)
 - **Discord:** `4nescient`
-- **Email:** 4nescient.com
+- **Email:** [4nescient@gmail.com](mailto:4nescient@gmail.com)
