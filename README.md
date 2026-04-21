@@ -13,7 +13,7 @@ I audit DeFi protocols in Solidity and Rust, focusing on precision
 math, economic attack vectors, and the gaps between how a protocol
 is supposed to work and how it actually behaves.
 
-I don't assume systems work as intended — I verify it.
+I don't assume systems work as intended. I verify it.
 
 ---
 
@@ -21,6 +21,7 @@ I don't assume systems work as intended — I verify it.
 
 | Date | Contest / Project | Platform | Language | Result | Findings |
 | --- | --- | --- | --- | --- | --- |
+| 2026-03 | Folks Finance: Staking Contracts | Immunefi | Solidity | #28 \| $ 340.00 | [\[1L\]](https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts) |
 | 2025-12 | Rujira | Code4rena | Rust | #51 \| $ 200.60 | [\[3H \| 1M\]](https://code4rena.com/audits/2025-12-rujira) |
 | 2025-08 | Super DCA Liquidity Network | Sherlock | Solidity | #24 \| 35.74 OP | [\[2H \| 2M\]](https://audits.sherlock.xyz/contests/1171) |
 | 2025-08 | Neutrl Protocol | Sherlock | Solidity | **#1** &nbsp; \| $ 941.02 | [\[1M\]](https://audits.sherlock.xyz/contests/1065) |
