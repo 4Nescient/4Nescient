@@ -1,4 +1,4 @@
-markdown<h1 align="center">4Nescient</h1>
+<h1 align="center">4Nescient</h1>
 <h3 align="center">Smart Contract Security Researcher</h3>
 
 <p align="center">
@@ -6,6 +6,8 @@ markdown<h1 align="center">4Nescient</h1>
   background, competing in public audit contests and conducting
   independent security reviews across Ethereum and Solana protocols.
 </p>
+
+<p align="center"><strong>$5,144.71 earned through security research</strong> &nbsp;·&nbsp; <strong>16 Critical/High findings</strong></p>
 
 ## About Me
 
@@ -21,8 +23,11 @@ I don't assume systems work as intended. I verify it.
 
 | Date | Contest / Project | Platform | Language | Result | Findings |
 | --- | --- | --- | --- | --- | --- |
+| 2026-06 | [0xMarkets](https://hackenproof.com/audit-programs/0xmarkets-audit-contest)<br><sub>Perpetual futures on FX, crypto, and commodities; powered by Bittensor.</sub> | HackenProof | Solidity | **#7** 🎖️ \| 196 \| $274.09 | 6H, 7M, 3L |
+| 2026-06 | [TipRun](https://hackenproof.com/audit-programs/tiprun-smart-contract-audit-contest)<br><sub>Cricket prediction market exchange</sub> | HackenProof | Solidity | #24 🎖️ \| 127 \| $303.91 | 3C, 2H |
+| 2026-04 | [XRP Ledger](https://audits.sherlock.xyz/contests/1260)<br><sub>L1 blockchain</sub> | Sherlock | C++ | Top 100 | 1M, 1L |
 | 2026-03 | Folks Finance: Staking Contracts | Immunefi | Solidity | #28 \| $ 340.00 | [\[1L\]](https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts) |
-| 2026-01 |Fluid DEX v2| Sherlock | Solidity | #11 \| $ 160.51 | [\[1M\]](https://audits.sherlock.xyz/contests/1225) |
+| 2026-01 | Fluid DEX v2 | Sherlock | Solidity | #11 \| $ 160.51 | [\[1M\]](https://audits.sherlock.xyz/contests/1225) |
 | 2025-12 | Rujira | Code4rena | Rust | #51 \| $ 200.60 | [\[3H \| 1M\]](https://code4rena.com/audits/2025-12-rujira) |
 | 2025-08 | Super DCA Liquidity Network | Sherlock | Solidity | #24 \| 35.74 OP | [\[2H \| 2M\]](https://audits.sherlock.xyz/contests/1171) |
 | 2025-08 | Neutrl Protocol | Sherlock | Solidity | **#1** &nbsp; \| $ 941.02 | [\[1M\]](https://audits.sherlock.xyz/contests/1065) |
@@ -30,11 +35,19 @@ I don't assume systems work as intended. I verify it.
 
 ---
 
+## Private Engagements
+
+| Client | Engagement | Compensation | Findings |
+| --- | --- | --- | --- |
+| Confidential | Smart contract security review | $1,932.75 | 2M, 3L |
+
+---
+
 ## Notes
 
-- The portfolio above contains **public** audit work and disclosed findings only.
-- Private engagements are not included unless disclosure is explicitly permitted.
-- Where available, links point directly to public reports, findings, or official contest pages.
+- Public entries link to official contest pages or reports.
+- The private engagement is anonymized; client, scope, and report details remain confidential.
+- Severity counts are listed only where disclosure is permitted.
 
 ---
 
