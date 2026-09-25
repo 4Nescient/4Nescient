@@ -23,6 +23,7 @@ I don't assume systems work as intended. I verify it.
 
 | Date | Contest / Project | Platform | Language | Result | Findings |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07 | [Metric](https://audits.sherlock.xyz/contests/1279)<br><sub>Oracle-priced DEX</sub> | Sherlock | Solidity | **#2** 🥈 | [3M](https://audits.sherlock.xyz/watson/4Nescient) |
 | 2026-06 | [0xMarkets](https://hackenproof.com/audit-programs/0xmarkets-audit-contest)<br><sub>Perpetual futures on FX, crypto, and commodities; powered by Bittensor.</sub> | HackenProof | Solidity | **#7** 🎖️ \| 196 | 6H, 7M, 3L |
 | 2026-06 | [TipRun](https://hackenproof.com/audit-programs/tiprun-smart-contract-audit-contest)<br><sub>Cricket prediction market exchange</sub> | HackenProof | Solidity | #24 🎖️ \| 127 | 3C, 2H |
 | 2026-04 | [XRP Ledger](https://audits.sherlock.xyz/contests/1260)<br><sub>L1 blockchain</sub> | Sherlock | C++ | Top 100 | 1M, 1L |
